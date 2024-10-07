@@ -6,4 +6,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 ---
-[![](https://visitcount.itsvg.in/api?id=jojibyte&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=jojibyte&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
